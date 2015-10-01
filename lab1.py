@@ -26,4 +26,4 @@ def vowel_or_consonant():
     else:
         print("consonant")
 
-vowel_or_consonant()
+# vowel_or_consonant()
